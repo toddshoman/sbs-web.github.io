@@ -3,7 +3,7 @@
     <title>Science Beyond Senses</title>
     <link href="https://www.sciencebeyondsenses.com/feed.xml" rel="self" />
     <link href="https://www.sciencebeyondsenses.com" />
-    <updated>2019-07-02T18:05:17-04:00</updated>
+    <updated>2019-07-02T20:14:39-04:00</updated>
     <author>
         <name>Todd Shoman</name>
     </author>
@@ -14,10 +14,10 @@
         <author>
             <name>Todd Shoman</name>
         </author>
-        <link href="https://www.sciencebeyondsenses.com/the-earth-was-flat-and-we-were-cool-with-that.html"/>
-        <id>https://www.sciencebeyondsenses.com/the-earth-was-flat-and-we-were-cool-with-that.html</id>
+        <link href="https://www.sciencebeyondsenses.com/the-earth-was-flat-and-we-were-cool-with-that/"/>
+        <id>https://www.sciencebeyondsenses.com/the-earth-was-flat-and-we-were-cool-with-that/</id>
 
-        <updated>2019-07-01T17:01:59-04:00</updated>
+        <updated>2019-07-02T20:13:42-04:00</updated>
             <summary></summary>
         <content></content>
     </entry>
@@ -26,22 +26,32 @@
         <author>
             <name>Todd Shoman</name>
         </author>
-        <link href="https://www.sciencebeyondsenses.com/test-form.html"/>
-        <id>https://www.sciencebeyondsenses.com/test-form.html</id>
+        <link href="https://www.sciencebeyondsenses.com/test-form/"/>
+        <id>https://www.sciencebeyondsenses.com/test-form/</id>
 
-        <updated>2019-07-01T16:40:57-04:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2019-07-02T20:13:37-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://www.sciencebeyondsenses.com/media/posts/3/PIA20912~small.jpg" alt="" />
+                    TBD
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://www.sciencebeyondsenses.com/media/posts/3/PIA20912~small.jpg" alt="" />
+                TBD
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>Summer 2019 Production Schedule</title>
         <author>
             <name>Todd Shoman</name>
         </author>
-        <link href="https://www.sciencebeyondsenses.com/summer-2019-production-schedule.html"/>
-        <id>https://www.sciencebeyondsenses.com/summer-2019-production-schedule.html</id>
+        <link href="https://www.sciencebeyondsenses.com/summer-2019-production-schedule/"/>
+        <id>https://www.sciencebeyondsenses.com/summer-2019-production-schedule/</id>
 
-        <updated>2019-07-01T16:30:58-04:00</updated>
+        <updated>2019-07-02T20:13:27-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.sciencebeyondsenses.com/media/posts/2/201306230004HQ~small.jpg" alt="" />
@@ -51,7 +61,7 @@
         <content type="html">
             <![CDATA[
                     <img src="https://www.sciencebeyondsenses.com/media/posts/2/201306230004HQ~small.jpg" alt="" />
-                So far we are looking at:ALL THIS!
+                So far we are looking at:TDB
             ]]>
         </content>
     </entry>
@@ -60,25 +70,21 @@
         <author>
             <name>Todd Shoman</name>
         </author>
-        <link href="https://www.sciencebeyondsenses.com/explore-with-us-humankinds-connectedness-to-everything.html"/>
-        <id>https://www.sciencebeyondsenses.com/explore-with-us-humankinds-connectedness-to-everything.html</id>
+        <link href="https://www.sciencebeyondsenses.com/explore-with-us-humankinds-connectedness-to-everything/"/>
+        <id>https://www.sciencebeyondsenses.com/explore-with-us-humankinds-connectedness-to-everything/</id>
 
-        <updated>2019-07-01T16:37:02-04:00</updated>
+        <updated>2019-07-02T20:14:25-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.sciencebeyondsenses.com/media/posts/1/PIA17563~small.jpg" alt="" />
-                    <p>Science Beyond Senses (in Production 2019) is a Documentary Series that tells the developing story at the intersection of cutting edge technologies and ancient aspects of the human condition. Can science finally explain what we have only sensed has existed in the universe for ages? Journey along and find out!</p>
-
+                    Science Beyond Senses (in Production 2019) is a Documentary Series that tells&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://www.sciencebeyondsenses.com/media/posts/1/PIA17563~small.jpg" alt="" />
                 <p>Science Beyond Senses (in Production 2019) is a Documentary Series that tells the developing story at the intersection of cutting edge technologies and ancient aspects of the human condition. Can science finally explain what we have only sensed has existed in the universe for ages? Journey along and find out!</p>
-
 <p class="msg--highlight msg  msg--success">"Imagination is more important than knowledge." - Albert Einstein</p>
-
-<p class="msg--highlight">Below the Fold</p>
             ]]>
         </content>
     </entry>
