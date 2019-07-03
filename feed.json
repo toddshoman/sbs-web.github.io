@@ -2,19 +2,19 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Science Beyond Senses",
     "description": "",
-    "home_page_url": "https://www.sciencebeyondsenses.com",
-    "feed_url": "https://www.sciencebeyondsenses.com/feed.json",
+    "home_page_url": "https://www.sciencebeyondsenses.org",
+    "feed_url": "https://www.sciencebeyondsenses.org/feed.json",
     "user_comment": "",
-    "icon": "https://www.sciencebeyondsenses.com/media/website/MOVIE-POSTER-1.jpg",
+    "icon": "https://www.sciencebeyondsenses.org/media/website/MOVIE-POSTER-1.jpg",
     "author": {
         "name": "Todd Shoman"
     },
     "items": [
         {
-            "id": "https://www.sciencebeyondsenses.com/the-earth-was-flat-and-we-were-cool-with-that/",
-            "url": "https://www.sciencebeyondsenses.com/the-earth-was-flat-and-we-were-cool-with-that/",
+            "id": "https://www.sciencebeyondsenses.org/the-earth-was-flat-and-we-were-cool-with-that/",
+            "url": "https://www.sciencebeyondsenses.org/the-earth-was-flat-and-we-were-cool-with-that/",
             "title": "The Earth Was Flat &amp; We Were Cool With That",
-            "image": "https://www.sciencebeyondsenses.com/media/posts/4/pexels-photo-1278952.jpeg",
+            "image": "https://www.sciencebeyondsenses.org/media/posts/4/pexels-photo-1278952.jpeg",
             "author": {
                 "name": "Todd Shoman"
             },
@@ -24,12 +24,12 @@
             "date_modified": "2019-07-02T20:13:42-04:00"
         },
         {
-            "id": "https://www.sciencebeyondsenses.com/test-form/",
-            "url": "https://www.sciencebeyondsenses.com/test-form/",
+            "id": "https://www.sciencebeyondsenses.org/test-form/",
+            "url": "https://www.sciencebeyondsenses.org/test-form/",
             "title": "Contact Us",
             "summary": "TBD",
             "content_html": "TBD",
-            "image": "https://www.sciencebeyondsenses.com/media/posts/3/PIA20912~small.jpg",
+            "image": "https://www.sciencebeyondsenses.org/media/posts/3/PIA20912~small.jpg",
             "author": {
                 "name": "Todd Shoman"
             },
@@ -39,12 +39,12 @@
             "date_modified": "2019-07-02T20:13:37-04:00"
         },
         {
-            "id": "https://www.sciencebeyondsenses.com/summer-2019-production-schedule/",
-            "url": "https://www.sciencebeyondsenses.com/summer-2019-production-schedule/",
+            "id": "https://www.sciencebeyondsenses.org/summer-2019-production-schedule/",
+            "url": "https://www.sciencebeyondsenses.org/summer-2019-production-schedule/",
             "title": "Summer 2019 Production Schedule",
             "summary": "So far we are looking at:",
             "content_html": "So far we are looking at:TDB",
-            "image": "https://www.sciencebeyondsenses.com/media/posts/2/201306230004HQ~small.jpg",
+            "image": "https://www.sciencebeyondsenses.org/media/posts/2/201306230004HQ~small.jpg",
             "author": {
                 "name": "Todd Shoman"
             },
@@ -54,12 +54,12 @@
             "date_modified": "2019-07-02T20:13:27-04:00"
         },
         {
-            "id": "https://www.sciencebeyondsenses.com/explore-with-us-humankinds-connectedness-to-everything/",
-            "url": "https://www.sciencebeyondsenses.com/explore-with-us-humankinds-connectedness-to-everything/",
+            "id": "https://www.sciencebeyondsenses.org/explore-with-us-humankinds-connectedness-to-everything/",
+            "url": "https://www.sciencebeyondsenses.org/explore-with-us-humankinds-connectedness-to-everything/",
             "title": "Explore with us Humankind&#x27;s Connectedness to Everything",
             "summary": "Science Beyond Senses (in Production 2019) is a Documentary Series that tells&hellip;",
             "content_html": "<p>Science Beyond Senses (in Production 2019) is a Documentary Series that tells the developing story at the intersection of cutting edge technologies and ancient aspects of the human condition. Can science finally explain what we have only sensed has existed in the universe for ages? Journey along and find out!</p>\n<p class=\"msg--highlight msg  msg--success\">\"Imagination is more important than knowledge.\" - Albert Einstein</p>",
-            "image": "https://www.sciencebeyondsenses.com/media/posts/1/PIA17563~small.jpg",
+            "image": "https://www.sciencebeyondsenses.org/media/posts/1/PIA17563~small.jpg",
             "author": {
                 "name": "Todd Shoman"
             },
