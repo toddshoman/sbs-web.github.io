@@ -5,11 +5,25 @@
     "home_page_url": "https://www.sciencebeyondsenses.org",
     "feed_url": "https://www.sciencebeyondsenses.org/feed.json",
     "user_comment": "",
-    "icon": "https://www.sciencebeyondsenses.org/media/website/ScienceBeyondSensesLogo2.png",
+    "icon": "https://www.sciencebeyondsenses.org/media/website/ScienceBeyondSenses_rnd.png",
     "author": {
         "name": "Todd Shoman"
     },
     "items": [
+        {
+            "id": "https://www.sciencebeyondsenses.org/the-global-consciousness-project-phd-roger-nelson/",
+            "url": "https://www.sciencebeyondsenses.org/the-global-consciousness-project-phd-roger-nelson/",
+            "title": "The Global Consciousness Project: Roger Nelson, PhD",
+            "summary": " http://noosphere.princeton.edu/introduction.html ",
+            "content_html": "<p><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/HQXoMI130KY\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p><a href=\"http://noosphere.princeton.edu/index.html\" target=\"_blank\" rel=\"noopener noreferrer\">http://noosphere.princeton.edu/introduction.html</a></p>\n<p> </p>",
+            "author": {
+                "name": "Todd Shoman"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-07-28T20:00:31-04:00",
+            "date_modified": "2019-07-28T20:06:56-04:00"
+        },
         {
             "id": "https://www.sciencebeyondsenses.org/the-earth-was-flat-and-we-were-cool-with-that/",
             "url": "https://www.sciencebeyondsenses.org/the-earth-was-flat-and-we-were-cool-with-that/",
